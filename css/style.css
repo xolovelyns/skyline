@@ -1,0 +1,15 @@
+*{
+    background-color: rgb(224, 208, 191);
+}
+video{
+    padding-left: 70px;
+    position: absolute;
+    margin-top: 0px;
+}
+.body{
+    margin: 10px 110px 0 460px;
+    padding-bottom: 70px;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 14px;
+    position: absolute;
+}
